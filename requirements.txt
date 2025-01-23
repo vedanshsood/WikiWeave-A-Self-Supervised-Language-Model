@@ -1,0 +1,4 @@
+streamlit==1.10.0
+wikipedia-api==0.5.4
+torch==1.13.1
+transformers==4.25.0
